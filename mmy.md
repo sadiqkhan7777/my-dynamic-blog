@@ -1,0 +1,11 @@
+app/
+  blog/
+    [slug]/
+      page.tsx
+      comments.tsx
+  components/
+    BlogPostCard.tsx
+  layout.tsx
+  page.tsx
+styles/
+  globals.css
